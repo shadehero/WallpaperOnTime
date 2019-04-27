@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2541D158-57A9-4861-9431-5C1E8C076C69}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="WallpaperOnTime\Program.cs">
+    <Files>
+      <File FileName="WallpaperOnTime\Program.cs" Line="58" Column="20" />
+      <File FileName="WallpaperOnTime\Wallpaper.cs" Line="37" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WallpaperOnTime PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

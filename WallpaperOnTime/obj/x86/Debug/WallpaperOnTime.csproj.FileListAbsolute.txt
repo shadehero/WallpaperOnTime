@@ -1,0 +1,6 @@
+C:\Users\ShadeHero\Documents\Projects\WallpaperOnTime\WallpaperOnTime\bin\Debug\WallpaperOnTime.exe
+C:\Users\ShadeHero\Documents\Projects\WallpaperOnTime\WallpaperOnTime\bin\Debug\WallpaperOnTime.pdb
+C:\Users\ShadeHero\Documents\Projects\WallpaperOnTime\WallpaperOnTime\bin\Debug\System.Drawing.dll
+C:\Users\ShadeHero\Documents\Projects\WallpaperOnTime\WallpaperOnTime\obj\x86\Debug\WallpaperOnTime.exe
+C:\Users\ShadeHero\Documents\Projects\WallpaperOnTime\WallpaperOnTime\obj\x86\Debug\WallpaperOnTime.pdb
+C:\Users\ShadeHero\Documents\Projects\WallpaperOnTime\WallpaperOnTime\bin\Debug\System.Windows.Forms.dll
